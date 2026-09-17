@@ -2,9 +2,9 @@
 
 > Web Application Portfolio พัฒนาด้วยกระบวนการ **Vibe Coding** เพื่อใช้ในการสมัครงานและสหกิจศึกษา ตอบโจทย์ทั้งด้านการออกแบบ Modern UI และการเล่าผลงานเชิงวิศวกรรมซอฟต์แวร์
 
-[![Live Demo](https://portfoliowebcv.vercel.app/)]
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliowebcv.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pisitspu)
-[![Status](https://img.shields.io/badge/Status-Active-emerald?style=for-the-badge)](https://github.com/pisitspu)
+[![Status](https://img.shields.io/badge/Status-Active-emerald?style=for-the-badge)](https://github.com/pisitspu/portfoliowebcv)
 
 ---
 
@@ -82,5 +82,8 @@ git clone [https://github.com/pisitspu/portfoliowebcv.git](https://github.com/pi
 # Navigate into project directory
 cd portfoliowebcv
 
-# Open in browser (or use VS Code Live Server)
+# Open in browser (Windows)
 start index.html
+
+# Or open with VS Code
+code .
